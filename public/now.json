@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "alias": "klguenth-bookmarks-app",
     "name": "bookmarks-app",
     "routes": [
         {
