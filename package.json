@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "eslint-utils": "^1.4.2",
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.5.3",
     "js-yaml": "^3.13.1",
     "lodash.update": "^4.10.2",
     "mixin-deep": "^2.0.1",
